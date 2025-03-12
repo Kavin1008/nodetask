@@ -1,0 +1,44 @@
+[31merror[39m: productionPOST /api/listUsers 401 - 3.001 ms - message: -
+[32minfo[39m: () => 'production' ?? ''POST /api/login 200 - 102.714 ms
+[32minfo[39m: () => 'production' ?? ''POST /api/listUsers 200 - 27.904 ms
+[32minfo[39m: () => 'production' ?? ''POST /api/task/addtask 201 - 33.359 ms
+[32minfo[39m: () => 'production' ?? ''POST /api/task/listtasks 200 - 30.653 ms
+[32minfo[39m: () => 'production' ?? ''POST /api/listUsers 200 - 27.059 ms
+[32minfo[39m: () => 'production' ?? ''POST /api/login 200 - 102.125 ms
+[31merror[39m: productionPOST /api/login 400 - 3.110 ms - message: -
+[32minfo[39m: () => 'production' ?? ''POST /api/task/addtask 201 - 33.393 ms
+[32minfo[39m: () => 'production' ?? ''POST /api/task/listtasks 200 - 28.822 ms
+[31merror[39m: productionPOST /api/task/updatetask 500 - 5.507 ms - message: -
+[31merror[39m: productionPOST /api/task/updatetask 500 - 8.966 ms - message: -
+[32minfo[39m: () => 'production' ?? ''POST /api/listUsers 200 - 30.763 ms
+[31merror[39m: productionPOST /api/task/updatetask 500 - 10.155 ms - message: -
+[31merror[39m: productionPOST /api/task/updatetask 500 - 10.344 ms - message: -
+[31merror[39m: productionPOST /api/task/addtask 500 - 33.821 ms - message: -
+[31merror[39m: productionPOST /api/task/addtask 500 - 34.594 ms - message: -
+[31merror[39m: productionPOST /api/task/addtask 500 - 33.971 ms - message: -
+[31merror[39m: productionPOST /api/task/addtask 500 - 33.785 ms - message: -
+[31merror[39m: productionPOST /api/task/addtask 500 - 33.699 ms - message: -
+[31merror[39m: productionPOST /api/task/addtask 500 - 33.525 ms - message: -
+[32minfo[39m: () => 'production' ?? ''POST /api/task/addtask 201 - 35.452 ms
+[32minfo[39m: () => 'production' ?? ''POST /api/task/updatetask 200 - 56.184 ms
+[32minfo[39m: () => 'production' ?? ''POST /api/task/listtasks 200 - 32.230 ms
+[31merror[39m: productionPOST /api/task/deletetask 400 - 1.225 ms - message: -
+[32minfo[39m: () => 'production' ?? ''POST /api/task/deletetask 200 - 37.011 ms
+[32minfo[39m: () => 'production' ?? ''POST /api/task/listtasks 200 - 31.628 ms
+[32minfo[39m: () => 'production' ?? ''POST /api/login 200 - 106.481 ms
+[32minfo[39m: () => 'production' ?? ''POST /api/task/listtasks - - - ms
+[32minfo[39m: () => 'production' ?? ''POST /api/task/listtasks - - - ms
+[32minfo[39m: () => 'production' ?? ''POST /api/task/listtasks - - - ms
+[32minfo[39m: () => 'production' ?? ''POST /api/task/listtasks - - - ms
+[32minfo[39m: () => 'production' ?? ''POST /api/task/listtasks - - - ms
+[32minfo[39m: () => 'production' ?? ''POST /api/task/listtasks - - - ms
+[32minfo[39m: () => 'production' ?? ''POST /api/task/listtasks - - - ms
+[32minfo[39m: () => 'production' ?? ''POST /api/task/listtasks - - - ms
+[32minfo[39m: () => 'production' ?? ''POST /api/task/listtasks - - - ms
+[32minfo[39m: () => 'production' ?? ''POST /api/task/listtasks - - - ms
+[32minfo[39m: () => 'production' ?? ''POST /api/task/listtasks 200 - 33.877 ms
+[32minfo[39m: () => 'production' ?? ''POST /api/task/listtasks 200 - 29.093 ms
+[32minfo[39m: () => 'production' ?? ''POST /api/task/listtasks 200 - 32.115 ms
+[32minfo[39m: () => 'production' ?? ''POST /api/task/listtasks 200 - 30.898 ms
+[32minfo[39m: () => 'production' ?? ''POST /api/task/listtasks 200 - 30.165 ms
+[32minfo[39m: () => 'production' ?? ''POST /api/task/listtasks 200 - 32.279 ms

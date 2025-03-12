@@ -1,0 +1,24 @@
+[32minfo[39m: () => 'production' ?? ''POST /api/login 200 - 127.422 ms
+[31merror[39m: productionPOST /api/task/addtask 400 - 3.220 ms - message: -
+[32minfo[39m: () => 'production' ?? ''POST /api/task/addtask 201 - 40.508 ms
+[32minfo[39m: () => 'production' ?? ''POST /api/task/listtasks 200 - 39.031 ms
+[32minfo[39m: productionPOST /api/task/listtasks 200 - 35.187 ms
+[32minfo[39m: production POST /api/task/updatetask 200 - 34.152 ms
+[32minfo[39m: production POST /api/task/listtasks 200 - 29.572 ms
+[31merror[39m: production POST /api/task/updatetask 500 - 61.112 ms - message: -
+[32minfo[39m: production POST /api/task/updatetask 200 - 37.047 ms
+[32minfo[39m: production POST /api/task/listtasks 200 - 29.482 ms
+[32minfo[39m: production POST /api/task/listtasks 200 - 36.269 ms
+[31merror[39m: production POST /api/task/upda 404 - 1.491 ms - message: -
+[31merror[39m: Redis cache error  cb is not a function or its return value is not iterable
+[31merror[39m: production POST /api/task/updatetask 500 - 87.431 ms - message: -
+[32minfo[39m: production POST /api/task/updatetask 200 - 39.424 ms
+[32minfo[39m: production POST /api/task/updatetask 200 - 35.166 ms
+[32minfo[39m: production POST /api/task/updatetask 200 - 37.360 ms
+[32minfo[39m: production POST /api/task/listtasks 200 - 34.710 ms
+[32minfo[39m: production POST /api/task/updatetask 200 - 42.260 ms
+[32minfo[39m: production POST /api/task/listtasks 200 - 39.998 ms
+[31merror[39m: production POST /api/task/upd 404 - 1.496 ms - message: -
+[32minfo[39m: production POST /api/task/updatetask 200 - 62.499 ms
+[32minfo[39m: production POST /api/task/updatetask 200 - 35.998 ms
+[32minfo[39m: production POST /api/task/listtasks 200 - 35.229 ms

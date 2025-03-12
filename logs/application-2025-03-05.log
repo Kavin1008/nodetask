@@ -1,0 +1,3 @@
+[31merror[39m: productionPOST /api/register 500 - 100.872 ms - message: -
+[31merror[39m: productionPOST /api/register 500 - 99.130 ms - message: -
+[32minfo[39m: () => 'production' ?? ''POST /api/register 201 - 112.532 ms

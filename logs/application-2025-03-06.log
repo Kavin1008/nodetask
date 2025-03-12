@@ -1,0 +1,101 @@
+[31merror[39m: productionPOST /api/register 500 - 80.690 ms - message: -
+[32minfo[39m: () => 'production' ?? ''POST /api/register 201 - 111.720 ms
+[31merror[39m: productionPOST /api/register 400 - 111.245 ms - message: -
+[31merror[39m: productionPOST /api/login 500 - 31.250 ms - message: -
+[31merror[39m: productionPOST /api/login 500 - 31.874 ms - message: -
+[31merror[39m: productionPOST /api/login 500 - 30.412 ms - message: -
+[31merror[39m: productionPOST /api/login 500 - 30.685 ms - message: -
+[31merror[39m: productionPOST /api/login 500 - 30.428 ms - message: -
+[31merror[39m: productionPOST /api/login 400 - 3.327 ms - message: -
+[31merror[39m: productionPOST /api/reg 404 - 1.076 ms - message: -
+[32minfo[39m: () => 'production' ?? ''POST /api/register 201 - 111.189 ms
+[32minfo[39m: () => 'production' ?? ''POST /api/login 200 - 108.835 ms
+[32minfo[39m: () => 'production' ?? ''POST /api/listUsers 200 - 29.703 ms
+[31merror[39m: productionPOST /api/getUser/1 500 - 33.768 ms - message: -
+[32minfo[39m: () => 'production' ?? ''POST /api/getUser/1 200 - 30.811 ms
+[31merror[39m: productionPOST /api/upda 404 - 1.212 ms - message: -
+[31merror[39m: productionPOST /api/update 500 - 7.519 ms - message: -
+[31merror[39m: productionPOST /api/update 500 - 33.456 ms - message: -
+[31merror[39m: productionPOST /api/update 500 - 31.452 ms - message: -
+[31merror[39m: productionPOST /api/update 500 - 32.428 ms - message: -
+[31merror[39m: productionPOST /api/update 500 - 33.500 ms - message: -
+[31merror[39m: productionPOST /api/update 500 - 34.214 ms - message: -
+[31merror[39m: productionPOST /api/update 500 - 33.318 ms - message: -
+[31merror[39m: productionPOST /api/update 500 - 53.384 ms - message: -
+[31merror[39m: productionPOST /api/update 500 - 32.064 ms - message: -
+[31merror[39m: productionPOST /api/update 500 - 34.114 ms - message: -
+[31merror[39m: productionPOST /api/update 500 - 33.628 ms - message: -
+[31merror[39m: productionPOST /api/update 500 - 34.940 ms - message: -
+[31merror[39m: productionPOST /api/update 500 - 31.859 ms - message: -
+[31merror[39m: productionPOST /api/update 500 - 34.186 ms - message: -
+[32minfo[39m: () => 'production' ?? ''POST /api/update 201 - 31.635 ms
+[32minfo[39m: () => 'production' ?? ''POST /api/update 201 - 33.402 ms
+[32minfo[39m: () => 'production' ?? ''POST /api/getUser/2 200 - 29.974 ms
+[31merror[39m: productionPOST /api/update 500 - 29.811 ms - message: -
+[31merror[39m: productionPOST /api/update 400 - 32.701 ms - message: -
+[31merror[39m: productionPOST /api/update 400 - 31.949 ms - message: -
+[31merror[39m: productionPOST /api/update 400 - 31.202 ms - message: -
+[32minfo[39m: () => 'production' ?? ''POST /api/listUsers 200 - 30.836 ms
+[32minfo[39m: () => 'production' ?? ''POST /api/listUsers 200 - 29.174 ms
+[32minfo[39m: () => 'production' ?? ''POST /api/update 201 - 34.091 ms
+[32minfo[39m: () => 'production' ?? ''POST /api/update 201 - 33.245 ms
+[31merror[39m: productionPOST /api/update 400 - 31.292 ms - message: -
+[32minfo[39m: () => 'production' ?? ''POST /api/update 201 - 51.064 ms
+[32minfo[39m: () => 'production' ?? ''POST /api/listUsers 200 - 28.686 ms
+[32minfo[39m: () => 'production' ?? ''POST /api/listUsers 200 - 28.149 ms
+[31merror[39m: productionPOST /api/delete 500 - 29.561 ms - message: -
+[31merror[39m: productionPOST /api/delete 500 - 29.883 ms - message: -
+[32minfo[39m: () => 'production' ?? ''POST /api/register 201 - 111.413 ms
+[32minfo[39m: () => 'production' ?? ''POST /api/delete 201 - 31.442 ms
+[32minfo[39m: () => 'production' ?? ''POST /api/listUsers 200 - 30.085 ms
+[32minfo[39m: () => 'production' ?? ''POST /api/listUsers 200 - 28.976 ms
+[31merror[39m: productionPOST /api/listUsers 401 - 5.484 ms - message: -
+[31merror[39m: productionPOST /api/login 500 - 49.110 ms - message: -
+[32minfo[39m: () => 'production' ?? ''POST /api/register 201 - 183.584 ms
+[31merror[39m: productionPOST /api/login 400 - 6.055 ms - message: -
+[32minfo[39m: () => 'production' ?? ''POST /api/login 200 - 165.008 ms
+[32minfo[39m: () => 'production' ?? ''POST /api/login 200 - 165.247 ms
+[32minfo[39m: () => 'production' ?? ''POST /api/task/addtask 201 - 63.288 ms
+[32minfo[39m: () => 'production' ?? ''POST /api/listUsers 200 - 29.201 ms
+[31merror[39m: productionPOST /api/listTasks 404 - 1.245 ms - message: -
+[31merror[39m: productionPOST /api/listtasks 404 - 1.357 ms - message: -
+[31merror[39m: productionPOST /api/task/listtasks 500 - 32.333 ms - message: -
+[32minfo[39m: () => 'production' ?? ''POST /api/task/listtasks 200 - 30.745 ms
+[31merror[39m: productionPOST /api/login 400 - 3.219 ms - message: -
+[31merror[39m: productionPOST /api/login 500 - 31.635 ms - message: -
+[31merror[39m: productionPOST /api/login 500 - 29.809 ms - message: -
+[31merror[39m: productionPOST /api/login 500 - 31.238 ms - message: -
+[31merror[39m: productionPOST /api/login 500 - 31.377 ms - message: -
+[31merror[39m: productionPOST /api/login 500 - 30.105 ms - message: -
+[31merror[39m: productionPOST /api/login 500 - 31.490 ms - message: -
+[31merror[39m: productionPOST /api/login 500 - 28.491 ms - message: -
+[31merror[39m: productionPOST /api/listUsers 401 - 3.509 ms - message: -
+[32minfo[39m: () => 'production' ?? ''POST /api/register 201 - 110.132 ms
+[32minfo[39m: () => 'production' ?? ''POST /api/login 200 - 112.075 ms
+[31merror[39m: productionPOST /api/task/addtask 500 - 35.074 ms - message: -
+[31merror[39m: productionGET /api/listUsers 404 - 1.521 ms - message: -
+[31merror[39m: productionGET /api/register 404 - 2.073 ms - message: -
+[31merror[39m: productionGET /api/listUsers 404 - 1.616 ms - message: -
+[32minfo[39m: () => 'production' ?? ''POST /api/listUsers 200 - 29.022 ms
+[31merror[39m: productionGET /api/listUsers 404 - 1.418 ms - message: -
+[32minfo[39m: () => 'production' ?? ''POST /api/listUsers 200 - 29.728 ms
+[31merror[39m: productionPOST /api/task/addtask 500 - 36.394 ms - message: -
+[31merror[39m: productionPOST /api/task/addtask 500 - 34.226 ms - message: -
+[32minfo[39m: () => 'production' ?? ''POST /api/listUsers 200 - 29.538 ms
+[31merror[39m: productionPOST /api/task/addtask 500 - 34.390 ms - message: -
+[31merror[39m: productionPOST /api/task/addtask 500 - 28.963 ms - message: -
+[31merror[39m: productionPOST /api/task/addtask 500 - 30.614 ms - message: -
+[31merror[39m: productionPOST /api/task/addtask 500 - 28.717 ms - message: -
+[31merror[39m: productionPOST /api/task/addtask 500 - 33.149 ms - message: -
+[31merror[39m: productionPOST /api/task/addtask 500 - 34.758 ms - message: -
+[32minfo[39m: () => 'production' ?? ''POST /api/login 200 - 108.609 ms
+[31merror[39m: productionPOST /api/login 400 - 3.839 ms - message: -
+[32minfo[39m: () => 'production' ?? ''POST /api/task/addtask 201 - 36.454 ms
+[32minfo[39m: () => 'production' ?? ''POST /api/login 200 - 110.984 ms
+[31merror[39m: productionPOST /api/login 400 - 2.979 ms - message: -
+[31merror[39m: productionPOST /api/task/addtask 500 - 35.833 ms - message: -
+[32minfo[39m: () => 'production' ?? ''POST /api/task/addtask 201 - 38.639 ms
+[31merror[39m: productionPOST /api/task/addtask 500 - 34.367 ms - message: -
+[32minfo[39m: () => 'production' ?? ''POST /api/listUsers 200 - 29.086 ms
+[32minfo[39m: () => 'production' ?? ''POST /api/register 201 - 114.124 ms
+[32minfo[39m: () => 'production' ?? ''POST /api/register 201 - 133.923 ms

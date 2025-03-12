@@ -1,0 +1,1 @@
+[32minfo[39m: () => 'production' ?? ''POST /api/getUser/1 200 - 16.634 ms

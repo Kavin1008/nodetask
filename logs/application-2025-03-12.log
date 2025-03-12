@@ -1,0 +1,27 @@
+[31merror[39m: production POST /api/adminregister 500 - 78.622 ms - message: -
+[31merror[39m: production POST /api/login 400 - 3.198 ms - message: -
+[31merror[39m: production POST /api/login 500 - 0.799 ms - message: -
+[31merror[39m: production POST /api/login 500 - 2.535 ms - message: -
+[31merror[39m: production POST /api/login 500 - 2.363 ms - message: -
+[31merror[39m: production POST /api/login 500 - 2.689 ms - message: -
+[32minfo[39m: production POST /api/login 200 - 86.159 ms
+[31merror[39m: production POST /api/adminregister 500 - 77.787 ms - message: -
+[31merror[39m: production POST /api/adminregister 400 - 2.035 ms - message: -
+[31merror[39m: production POST /api/adminregister 400 - 1.938 ms - message: -
+[31merror[39m: production POST /api/adminregister 400 - 2.415 ms - message: -
+[31merror[39m: production POST /api/adminregister 400 - 2.114 ms - message: -
+[31merror[39m: production POST /api/adminregister 400 - 0.947 ms - message: -
+[31merror[39m: production POST /api/adminregister 400 - 0.672 ms - message: -
+[31merror[39m: production POST /api/adminregister 400 - 2.055 ms - message: -
+[32minfo[39m: production POST /api/adminregister 201 - 94.080 ms
+[31merror[39m: production POST /api/adminregister 400 - 96.399 ms - message: -
+[31merror[39m: production POST /api/adminregister 400 - 99.079 ms - message: -
+[32minfo[39m: production POST /api/adminregister 201 - 84.082 ms
+[32minfo[39m: production POST /api/adminregister 201 - 103.584 ms
+[32minfo[39m: production POST /api/adminregister 201 - 106.552 ms
+[31merror[39m: production POST /api/adminregister 400 - 86.728 ms - message: -
+[31merror[39m: production POST /api/adminlogin 400 - 2.876 ms - message: -
+[31merror[39m: production POST /api/adminlogin 500 - 3.862 ms - message: -
+[32minfo[39m: production POST /api/adminlogin 200 - 102.957 ms
+[31merror[39m: production POST /api/admin/listusers 500 - 2.872 ms - message: -
+[32minfo[39m: production POST /api/admin/listusers 200 - 7.395 ms
